@@ -1,0 +1,6 @@
+.header-banner{
+    background-image: url(./images/banner1.jpg), linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0));
+    background-blend-mode: multiply;
+    max-height: 60vh;
+    background-size: 100% 100%;
+}
